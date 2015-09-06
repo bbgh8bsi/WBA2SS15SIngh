@@ -100,8 +100,8 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     Liste setzen können, so kann man ein  Netzwerk  nach und nach aufbauen.
     Die Anwendungslogik wird sowohl wom Dienstgeber als auch vom Dienstnehmer benutzt.
     
-    Die User bekommen eine Datensatz, in dem sowohl eine eindeutige id vergeben wird, als auch Vorname, Nachname und Rolle
-    gespeichert wird und man kann mit der jeweiligen rolle verschiedene Funktionen ausführen. 
+    Die User bekommen eine Datensatz, in dem sowohl eine eindeutige id vergeben wird, als auch Vorname, Nachname, Evnets und
+    Rolle gespeichert wird und man kann mit der jeweiligen rolle verschiedene Funktionen ausführen. 
     Wie schon erwähnt hat die Rolle Veranstalter, das recht ein Event zu erstellen und zu löschen, während der Dienstleister
     nur das recht hat sich ein und auszutragen.
     Das Event bekommt ein Datensatz mit den Inhalt: Name, Datum, Info.</br>
@@ -148,9 +148,9 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
 ####Dokumentation des Prozesses:
   * Beschreibung der Vorgehensweise, auch der Irrwege </br>
     
-    Der erste Schritt war die Festlegung der Projekt idee, diese wurde so geplant das diese auch umgesetzt werden kann.
-    Das Problem das immer wieder auftrat ist die Sozialmedia denkweise und hat somit viel Zeit in anspruch genommen. 
-    Der schritt in die richtige Richtung, wurde mit dem Hilfe von Szenarien gemacht und das selektiern, was realistisch
+    Der erste Schritt war die Festlegung der Projektidee, diese wurde so geplant das diese auch umgesetzt werden kann.
+    Das Problem, dass immer wieder auftrat ist die Sozialmedia denkweise und hat somit viel Zeit in anspruch genommen. 
+    Der schritt in die richtige Richtung, wurde mit der Hilfe von Szenarien gemacht und das selektiern, was realistisch
     ist umzusetzten im Rahmen der Veranstaltung.
   * Eine kritische Reflexion des Erreichten und des Nicht-Erreichten in einem Fazit </br>
 
