@@ -149,7 +149,9 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
   * Beschreibung der Vorgehensweise, auch der Irrwege </br>
     
     Der erste Schritt war die Festlegung der Projekt idee, diese wurde so geplant das diese auch umgesetzt werden kann.
-    Das Problem das immer wieder auftrat ist die Sozialmedia denkweise
+    Das Problem das immer wieder auftrat ist die Sozialmedia denkweise und hat somit viel Zeit in anspruch genommen. 
+    Der schritt in die richtige Richtung, wurde mit dem Hilfe von Szenarien gemacht und das selektiern, was realistisch
+    ist umzusetzten im Rahmen der Veranstaltung.
   * Eine kritische Reflexion des Erreichten und des Nicht-Erreichten in einem Fazit </br>
 
 
