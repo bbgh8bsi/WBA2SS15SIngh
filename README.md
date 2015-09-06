@@ -137,12 +137,19 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     
   * Umsetzung der Präsentationslogik und Überlegungen dazu </br>
     
+    Die Präsentationslogik des Dienstnehmers stellt die Informationen in HTML und mit der Template-Engin ejs dar.
+    
+    
   * Beschreibung der Funktionalität, die aus Zeitmangel nicht umgesetzt werden konnte </br>
-  *  Die Favoritenliste und Loggin wurden nicht realiesiert.
+    
+     Die Favoritenliste und Loggin wurden nicht realiesiert.
     
 
 ####Dokumentation des Prozesses:
   * Beschreibung der Vorgehensweise, auch der Irrwege </br>
+    
+    Der erste Schritt war die Festlegung der Projekt idee, diese wurde so geplant das diese auch umgesetzt werden kann.
+    Das Problem das immer wieder auftrat ist die Sozialmedia denkweise
   * Eine kritische Reflexion des Erreichten und des Nicht-Erreichten in einem Fazit </br>
 
 
