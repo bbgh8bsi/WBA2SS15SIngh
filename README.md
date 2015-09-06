@@ -113,8 +113,7 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     können) und Dienstleister (der die eingetragenen Dienstleister enthält).</br>
     
     
-    
-    
+    Für die Datenstruktur wurde wie gefordert Redis-Datenbank verwendet,welche mit dem "redis" Modul angebunden wurde.
     Die oben genannten Datensätze sind obligatorisch. Es können optional auch noch andere Daten für die User verwendet werden
     wie Qualifikation, Ort, Erfahrung, Alter, usw. Das gleiche gilt auch für  das Event, da wären Optional Raumkapazität, Art
     der Veranstaltung, Musikrichtung, Ort.
@@ -148,7 +147,6 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     
     Die Präsentationslogik des Dienstnehmers stellt die Informationen in HTML und mit der Template-Engin ejs dar.
     
-    
   * Beschreibung der Funktionalität, die aus Zeitmangel nicht umgesetzt werden konnte </br>
     
     Die Favoritenliste und Benutzerverwaltung wurden nicht realiesiert, stattdessen wird mit einer Liste gearbeitet auf den
@@ -160,9 +158,12 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     
   * Eine kritische Reflexion des Erreichten und des Nicht-Erreichten in einem Fazit </br>
     
-    Node.js ist noch eine relativ junges Framework, was die Arbeit mit diesem interessant gestaltet hat. Leider es bei
+    Node.js ist noch eine relativ junges Framework, was die Arbeit mit diesem interessant gestaltet hat. Leider gibt es bei
     Problemen, wie etwas dort abläuft im Internet noch recht wenig aussagekräftige Hilfe. Ebenfalls hat die Umstellung von
     relationale Datenbanken zu NoSQL einiges Kopfzerbrechen gemacht.
+    Es gab vorallem Probleme bei der Umsetzung der Anwendungslogik in Verbindung mit der Präsentationslogik. 
+    
+    
 
 
 
