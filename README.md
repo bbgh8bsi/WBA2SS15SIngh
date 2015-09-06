@@ -151,7 +151,9 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     
   * Beschreibung der Funktionalität, die aus Zeitmangel nicht umgesetzt werden konnte </br>
     
-     Die Favoritenliste und Loggin wurden nicht realiesiert.
+    Die Favoritenliste und Benutzerverwaltung wurden nicht realiesiert, stattdessen wird mit einer Liste gearbeitet auf den
+    alle User aufgelistet sind, dafür werden werder Benutzername noch passwöter benutzt. Die Profile von den Nutzern dienen 
+    zur veranschaulichung der Funktionen.
     
 
 ####Dokumentation des Prozesses:
