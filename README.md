@@ -163,7 +163,7 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     relationale Datenbanken zu NoSQL einiges Kopfzerbrechen gemacht.
     Es gab vorallem Probleme bei der Umsetzung der Anwendungslogik in Verbindung mit der Präsentationslogik. 
     
-    
+
 
 
 
