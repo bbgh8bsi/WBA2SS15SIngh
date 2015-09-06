@@ -104,7 +104,8 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     Rolle gespeichert wird und man kann mit der jeweiligen rolle verschiedene Funktionen ausführen. 
     Wie schon erwähnt hat die Rolle Veranstalter, das recht ein Event zu erstellen und zu löschen, während der Dienstleister
     nur das recht hat sich ein und auszutragen.
-    Das Event bekommt ein Datensatz mit den Inhalt: Name, Datum, Info.</br>
+    Das Event bekommt ein Datensatz mit den Inhalt: Id, Name, Datum, Info, veranstalter und dienstleister.</br>
+    
     
     
     
