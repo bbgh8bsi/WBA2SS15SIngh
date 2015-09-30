@@ -163,6 +163,15 @@ Das System soll zudem, über eine Suche verfügen und einem Bewertungsystem, dam
     relationale Datenbanken zu NoSQL einiges Kopfzerbrechen gemacht.
     Es gab vorallem Probleme bei der Umsetzung der Anwendungslogik in Verbindung mit der Präsentationslogik. 
     
+    
+    
+
+
+|               | Carolina Singh    | Robin Mathesdorf|**gesamt**|
+|---------------|------------       |---------------- |----------|
+|Idee & Projekt | 33%               | 33%             | **100%** |
+|Layout         | 90%               | 10%             | **100%** |
+|Code           | 60%               | 40%             | **100%** |
 
 
 
